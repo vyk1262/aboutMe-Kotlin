@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">YELLESH</string>
+    <string name="desc">Desc</string>
+    <string name="nick_name">What is your nick Name</string>
+    <string name="bio">In this blog post, we’ll develop\n\n a basic Sound Recorder application that\n
+        is capable of recording audio and saving it into the local storage of an Android device\n
+        using the MediaRecorder that is provided by the Android SDK.\n
+        The Android multimedia framework includes support for recording and playing audio. In this blog\n
+        post, we’ll develop a basic Sound Recorder application that is capable of recording\n
+        audio and saving it into the local storage of an Android device using the MediaRecorder\n
+        that is provided by the Android SDK.\n
+        The Android multimedia framework includes support for recording and playing audio. In this blog\n
+        post, we’ll develop a basic Sound Recorder application that is capable of recording\n
+        audio and saving it into the local storage of an Android device using the MediaRecorder\n
+        that is provided by the Android SDK.\n
+        The Android multimedia framework includes support for recording and playing audio. In this blog\n
+        post, we’ll develop a basic Sound Recorder application that is capable of recording\n
+        audio and saving it into the local storage of an Android device using the MediaRecorder\n
+        that is provided by the Android SDK.\n
+        The Android multimedia framework includes support for recording and playing audio. In this blog\n
+        post, we’ll develop a basic Sound Recorder application that is capable of recording\n
+        audio and saving it into the local storage of an Android device using the MediaRecorder\n
+        that is provided by the Android SDK.\n
+        You will also learn how to request user-permissions in real-time and how to work with the local
+        storage of an Android device.</string>
+    <string name="done_button">Done</string>
 </resources>
